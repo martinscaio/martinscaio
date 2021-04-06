@@ -1,8 +1,8 @@
-                                        DATA SCIENTIST AND POLITICAL SCIENTIST
+                                                      DATA SCIENTIST AND POLITICAL SCIENTIST
 
-- 👀 Techs & languages: R, Python and SQL
-- 🌱 I’m currently learning PYTHON
-- 📫 How to reach me mcaio96@gmail.com
+- 👀 Techs & linguagens: R, Python and SQL
+- 🌱 Atualmente aprofundando meu conhecimento em PYTHON
+- 📫 Caso queira entrar em contato: mcaio96@gmail.com
 
 <!---
 martinscaio/martinscaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
