@@ -1,4 +1,4 @@
-                                                      DATA SCIENTIST AND POLITICAL SCIENTIST
+                                                      DATA SCIENTIST AND SOCIAL SCIENTIST
 
 - 👀 Techs & linguagens: R, Python and SQL
 - 🌱 Atualmente aprofundando meu conhecimento em PYTHON
